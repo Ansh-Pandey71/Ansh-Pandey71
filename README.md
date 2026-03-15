@@ -40,7 +40,7 @@ Currently building **real-world projects** using **Excel, Power BI, SQL, and Pyt
 
 ---
 
-## 🌱 Currently Learning
+##Currently Learning
 - Advanced SQL (Joins, Subqueries, CTEs, Window Functions)
 - Python for Data Analysis
 - Statistics for Data Analytics
