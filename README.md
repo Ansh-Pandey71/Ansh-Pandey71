@@ -19,17 +19,17 @@ Let’s connect, learn, and grow together—one dataset at a time.
 ---
 
 ## 🌐 Socials:
-* **LinkedIn:** [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://linkedin.com/in/Ansh-Pandey71)
+* [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://linkedin.com/in/Ansh Pandey)
 * **Instagram:** [<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />](https://instagram.com/ansh_pandey01)
 
 ---
 
 ## 💻 Tech Stack:
-* 🐍 **Python:** <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
-* 🗄️ **MySQL:** <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" />
-* 🖧 **Microsoft SQL Server:** <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
-* 📊 **Power BI:** <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black" />
-* 🐼 **Pandas:** <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
-* 🔢 **NumPy:** <img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white" />
-* 📉 **Matplotlib:** <img src="https://img.shields.io/badge/matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black" />
-* 🐙 **GitHub:** <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+* <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" />
+* <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
+* <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black" />
+* <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
+* <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
+* <img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white" />
+* <img src="https://img.shields.io/badge/matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black" />
+* <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
