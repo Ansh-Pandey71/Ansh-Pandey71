@@ -17,7 +17,7 @@ Let’s connect, learn, and grow together—one dataset at a time.
 *You bring the business problem, I’ll bring the insights (and the code)* 🍪💻
 
 ---
-
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/Ansh-Pandey71) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/ansh_pandey01) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pandeyansh7986@gmail.com)
 ## 🌐 Socials:
 * [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://linkedin.com/in/Ansh Pandey)
 * **Instagram:** [<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />](https://instagram.com/ansh_pandey01)
