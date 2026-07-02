@@ -1,71 +1,38 @@
 # Hi 👋 I'm Ansh Pandey
 
 🎓 **B.Sc. IT Student**  
-📊 **Aspiring Data Analyst**  
-🐍 Learning **Python | SQL | Data Visualization**  
-🤖 Exploring **AI & Machine Learning**
 
-I am a highly motivated Data Analyst aspirant with a strong interest in turning raw data into meaningful business insights.  
-Currently building **real-world projects** using **Excel, Power BI, SQL, and Python** to strengthen my analytical and problem-solving skills.
+# I’m so glad you’re here!
 
----
+Welcome to my data-driven corner of GitHub! 📊  
+I’m a **Data Analyst** passionate about turning raw, messy data into actionable business insights. I love picking up new tech skills, solving complex analytical problems, and making data storytelling a lot more impactful (and a lot less overwhelming). 
 
-## 🔍 About Me
-- 📚 Background in **Information Technology**
-- 📈 Passionate about **Data Analysis & Business Intelligence**
-- 🧠 Strong interest in **data-driven decision making**
-- 🚀 Actively preparing for **Data Analyst roles & internships**
+Here, you'll find:
+* 🛠️ **End-to-End DA Projects** (SQL queries, Power BI dashboards, and Python analysis)
+* 📚 **Data Insights** that I uncover while debugging, optimizing queries, and handling data pipelines
+* 🌱 **My Learning Journey** as I explore advanced analytics, cloud tools, and data modeling
 
----
-
-## 🔧 Skills & Tools
-
-### 📊 Data Analysis & Visualization
-- Microsoft Excel (Pivot Tables, Charts, Dashboards)
-- Google Sheets
-- Power BI
-- Tableau
-
-### 🧠 Programming & Databases
-- Python (Pandas, NumPy – Learning)
-- SQL
-- MySQL
-
-### 📈 Analytics Concepts
-- Data Cleaning & Preparation
-- Exploratory Data Analysis (EDA)
-- KPI Analysis
-- Dashboard Design
-- Business Insights
+Whether you're a recruiter looking for a data enthusiast, a fellow analyst, or just here to see my dashboards—you’re in the right place! 🫶  
+Let’s connect, learn, and grow together—one dataset at a time.  
+*You bring the business problem, I’ll bring the insights (and the code)* 🍪💻
 
 ---
 
-##Currently Learning
-- Advanced SQL (Joins, Subqueries, CTEs, Window Functions)
-- Python for Data Analysis
-- Statistics for Data Analytics
-- Power BI DAX Basics
-- Data Modeling Concepts
+## 🌐 Socials:
+* **LinkedIn:** [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://linkedin.com/in/Ansh-Pandey71)
+* **Instagram:** [<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />](https://instagram.com/ansh_pandey01)
 
 ---
 
-## 📂 Projects
-
-### 📌 Sales Analysis Dashboard (Excel)
-- Cleaned and analyzed sales data
-- Created interactive dashboards using Pivot Tables & charts
-- Identified sales trends, top products, and regional performance
-
-### 📌 SQL Practice & Case Studies
-- Solved real-world SQL problems
-- Practiced Joins, Subqueries, Aggregations, and Window Functions
-- Focused on business-oriented queries
-
-### 📌 Python Data Analysis Projects*
-- Data cleaning using Pandas
-- EDA using Matplotlib & Seaborn
-- Extracting insights from datasets
-
-➡️ More projects coming soon 🚀
-
-⭐ If you like my work, don’t forget to star ⭐ my repositories!
+## 💻 Tech Stack:
+* 🐍 **Python:** <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
+* 🗄️ **MySQL:** <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" />
+* 🖧 **Microsoft SQL Server:** <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
+* 📊 **Power BI:** <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black" />
+* 🐼 **Pandas:** <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
+* 🔢 **NumPy:** <img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white" />
+* 📉 **Matplotlib:** <img src="https://img.shields.io/badge/matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black" />
+* ☁️ **Azure:** <img src="https://img.shields.io/badge/azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" />
+* 🎨 **Canva:** <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
+* 🌿 **Git:** <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" />
+* 🐙 **GitHub:** <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
