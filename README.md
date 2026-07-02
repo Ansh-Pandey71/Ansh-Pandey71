@@ -32,7 +32,4 @@ Let’s connect, learn, and grow together—one dataset at a time.
 * 🐼 **Pandas:** <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
 * 🔢 **NumPy:** <img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white" />
 * 📉 **Matplotlib:** <img src="https://img.shields.io/badge/matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black" />
-* ☁️ **Azure:** <img src="https://img.shields.io/badge/azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" />
-* 🎨 **Canva:** <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
-* 🌿 **Git:** <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" />
 * 🐙 **GitHub:** <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
