@@ -19,8 +19,6 @@ Let’s connect, learn, and grow together—one dataset at a time.
 ---
 
 ## 🌐 Socials:
-## 🌐 Connect with me:
-
 <a href="https://www.linkedin.com/in/ansh-pandey-a30119357/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=amg" alt="LinkedIn" />
 </a>
@@ -30,7 +28,7 @@ Let’s connect, learn, and grow together—one dataset at a time.
 <a href="https://instagram.com/_ansh_pandey01" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
----
+
 
 ## 💻 Tech Stack:
 * ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
