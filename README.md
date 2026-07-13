@@ -33,3 +33,5 @@ Let’s connect, learn, and grow together—one dataset at a time.
 * <img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white" />
 * <img src="https://img.shields.io/badge/matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black" />
 * <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+* ![ETL](https://img.shields.io/badge/ETL-blue?style=flat&logo=databricks&logoColor=white)
+* ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-FFC107?style=flat&logo=powerbi&logoColor=black)
